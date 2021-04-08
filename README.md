@@ -1,3 +1,3 @@
 # todo-app
-A simple todo app made by flutter, It includes local notification, various categories and priority flags 
-Included the release apks
+A simple todo app made by flutter, It includes local notification, various categories and priority flags .
+Also included the release apks.
